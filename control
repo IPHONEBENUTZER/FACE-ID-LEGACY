@@ -1,0 +1,9 @@
+Package: com.iphonebenutzer.faceidlegacy
+Name: FaceID Legacy
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Experimental face recognition for legacy iPhones.
+Maintainer: IPHONEBENUTZER
+Author: IPHONEBENUTZER
+Section: Tweaks
+Depends: mobilesubstrate
