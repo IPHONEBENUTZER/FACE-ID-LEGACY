@@ -1,0 +1,42 @@
+# FACE-ID-LEGACY
+
+**Experimental Face Recognition for Older iPhones**
+
+Version: 1.0  
+Device: iPhone 4s  
+iOS: 9.3.6
+
+## About
+
+FaceID Legacy is an experimental jailbreak tweak project.
+
+The goal is to bring a Face ID-inspired experience to older iPhones that do not have Apple's Face ID hardware.
+
+## Features
+
+- Front camera face detection
+- Custom face scanning interface
+- iOS-style scanning animation
+- Passcode fallback
+- Offline face recognition
+
+## Compatibility
+
+First target:
+- iPhone 4s
+- iOS 9.3.6
+
+Future targets:
+- iPhone 2G through iPhone SE (3rd generation)
+
+## Important
+
+This project does not provide Apple's secure Face ID authentication. Experimental face recognition must not replace the device passcode.
+
+## Project Status
+
+Development starting soon.
+
+## License
+
+MIT License
